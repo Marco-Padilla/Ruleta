@@ -45,7 +45,7 @@ button:hover {
 }
 
 .container1 img {
-  width: 35rem;
+  width: 40rem;
   padding-bottom: 50px;
   margin-right: 5%;
 }
@@ -96,5 +96,6 @@ button:hover {
 #img7,
 #img8,
 #img9 {
-  width: 43rem !important;
+  width: 40rem !important;
 }
+
