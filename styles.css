@@ -36,23 +36,24 @@ button:hover {
 }
 
 .container1 {
-  width: 35%;
+  width: 50%;
 }
 
 .container2 {
-  width: 65%;
+  width: 50%;
+  margin-right: 3%;
 }
 
 .container1 img {
-  width: 30rem;
+  width: 35rem;
   padding-bottom: 50px;
-  padding-left: 200px;
+  margin-right: 5%;
 }
 
 .wheel-container {
   position: relative;
-  width: 650px;
-  height: 650px;
+  width: 670px;
+  height: 670px;
   margin-top: 5%;
 }
 
@@ -79,9 +80,21 @@ button:hover {
   position: absolute;
   top: 0;
   left: 0;
-  width: 50%;
+  width: 45%;
   height: 100%;
   z-index: -1000;
   opacity: 40%;
   pointer-events: none;
+}
+
+#img1,
+#img2,
+#img3,
+#img4,
+#img5,
+#img6,
+#img7,
+#img8,
+#img9 {
+  width: 43rem !important;
 }
